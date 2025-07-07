@@ -3,3 +3,12 @@
 0:0:0:0:0:0:0:1 - - [07/Jul/2025:13:59:22 +0900] "GET /favicon.ico HTTP/1.1" 404 819
 0:0:0:0:0:0:0:1 - - [07/Jul/2025:14:02:19 +0900] "GET /HelloHTML/index.html HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [07/Jul/2025:14:02:20 +0900] "GET /favicon.ico HTTP/1.1" 404 819
+127.0.0.1 - - [07/Jul/2025:15:09:31 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:09:31 +0900] "GET /HelloVue/index.html HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:09:32 +0900] "GET /favicon.ico HTTP/1.1" 404 819
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:10:31 +0900] "GET /HelloVue/index.html HTTP/1.1" 200 404
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:12:20 +0900] "GET /HelloVue/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:12:23 +0900] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 864
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:13:22 +0900] "GET /HelloVue/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:15:57 +0900] "GET /HelloVue/index.html HTTP/1.1" 200 417
+0:0:0:0:0:0:0:1 - - [07/Jul/2025:15:16:16 +0900] "GET /HelloVue/index.html HTTP/1.1" 304 -
